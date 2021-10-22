@@ -1,5 +1,5 @@
 # C-interview-programms
-<h1>C Interview Programs</h1>
+<h2>C Interview Programs</h2>
 <ul>
   <li>Fibonacci Series</li>
   <li>Prime Number</li>
